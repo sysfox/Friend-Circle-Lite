@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://github.com/sysfox/cdn/raw/refs/heads/main/blog/friends.json"
-  article_count: 5
+  article_count: 15
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
